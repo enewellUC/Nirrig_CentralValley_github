@@ -1,0 +1,10 @@
+"metric","value"
+"Total N_Irrig (Gg N/yr)",0.0430026882629089
+"Irrigated area (kha)",581.278700270493
+"Area-weighted mean N_Irrig (kg N/ha/yr)",73.9794667220698
+"Median cell N_Irrig (kg N/ha/yr)",69.2125296979403
+"IQR lower (kg N/ha/yr)",64.0729128733563
+"IQR upper (kg N/ha/yr)",75.6675447469898
+"Share of irrigated area >100 kg N/ha (%)",7.41714762064666
+"Share of irrigated area inside AOA (%)",93.310610018238
+"Number of 100 km2 cells",442
